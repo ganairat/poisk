@@ -1,6 +1,6 @@
 package ru.itis.util;
 
 public interface Constants {
-    int STUDENT_ID = 110;
-    int ARTICLES_QUANTITY = 30;
+    int STUDENT_ID = 104;
+    int ARTICLES_QUANTITY = 28;
 }
